@@ -13,6 +13,7 @@
 3. run this program
 
 > python3 check.py -d # random delay mode
+>
 > python3 check.py    # no delay mode
 
 ## Disclaimer
