@@ -11,10 +11,9 @@
 > pip3 install -r requirements.txt
 
 3. run this program
-> # random delay mode
-> python3 check.py -d
-> # no delay mode
-> python3 check.py 
+
+> python3 check.py -d # random delay mode
+> python3 check.py    # no delay mode
 
 ## Disclaimer
 Purveyors of Aids to Magical Mischief-Makers are proud to present
